@@ -1,36 +1,34 @@
-Hey there! 👋 I'm Roshan Shetty
-A Passionate Full-Stack Enthusiast and Final-Year Engineering Student.
+ Hey there, I’m Roshan Shetty
+💻 Passionate Full-Stack Enthusiast | 🎓 Final-Year Engineering Student
 
-💻 About Me
-🌱 I am a final-year student at Sahyadri College of Engineering & Management (SCEM), Mangaluru.
+🌟 About Me
+I’m a final-year student at Sahyadri College of Engineering & Management (SCEM), Mangaluru.
+I love building scalable web applications with a focus on clean backend architecture and strengthening my problem-solving skills through DSA.
 
-👨‍💻 I am proficient in C, Java, and Python.
+👨‍💻 Proficient in C, Java, and Python
 
-🌐 My expertise includes HTML, CSS, JavaScript, Next.js, and React.
+🌐 Skilled in HTML, CSS, JavaScript, React, and Next.js
 
-💾 I have hands-on experience with databases like MongoDB and MySQL.
+💾 Hands-on experience with MongoDB & MySQL
 
-✨ I'm interested in building scalable web applications and clean backend architecture.
+📚 Actively practicing Data Structures and Algorithms (DSA)
 
-⚡ In my free time, I enjoy Cricket, Dancing, Learning, and Exploring new technologies.
+⚡ In my free time: I enjoy Cricket, Dancing, Learning, and Exploring new technologies
 
 🚀 Tech Stacks & Tools
-Category
+Languages: C, Java, Python, JavaScript
 
-Skills
+Frontend: HTML, CSS, JavaScript, React, Next.js
 
-Languages
+Backend: Node.js
 
-C, Java, Python, JavaScript
+Databases: MongoDB, MySQL
 
-Frontend
+Core Skills: Data Structures & Algorithms (DSA)
 
-HTML, CSS, JavaScript, React, Next.js
+🌱 Current Focus
+🔭 Building full-stack MERN applications
+📊 Improving DSA skills & problem-solving
+⚡ Exploring predictive modeling & scalable web systems
 
-Backend
-
-Node.js
-
-Databases
-
-MongoDB, MySQL
+✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀
